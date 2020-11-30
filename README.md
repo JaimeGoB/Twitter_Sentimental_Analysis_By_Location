@@ -2,7 +2,7 @@
 
 # Flowchart of Live Tweet Stream Application
 
-<img src="https://github.com/JaimeGoB/Twitter_Sentimental_Analysis_By_Location/blob/main/images/flowchart.png" length = 1000 width="1000"/>
+<img src="https://github.com/JaimeGoB/Twitter_Sentimental_Analysis_By_Location/blob/main/images/flowchart.png" length = 800 width="800"/>
 
 
 # Processed Tweet - Location and Sentiment
@@ -26,6 +26,6 @@
  
  # Kibana Dashboard
  
- <img src="https://github.com/JaimeGoB/Twitter_Sentimental_Analysis_By_Location/blob/main/images/dashboard.png" length = 1000 width="1000"/>
+ <img src="https://github.com/JaimeGoB/Twitter_Sentimental_Analysis_By_Location/blob/main/images/dashboard.png" length = 1200 width="1200"/>
 
  
