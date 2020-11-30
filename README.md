@@ -7,11 +7,9 @@
 
 # Processed Tweet - Location and Sentiment
 
-
-
- ==========================================
- Uploading this location to ElasticSearch:
- ==========================================
+##### ==========================================
+##### Uploading this location to ElasticSearch:
+##### ==========================================
  {'latitude': 53.407154, 'longtitude': -2.991665, 'city': 'Liverpool', 'country': ' United Kingdom', 'sentiment': 'Neutral'} 
  
  
