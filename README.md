@@ -1,5 +1,7 @@
 # Twitter Sentimental Analysis By Location
 
+THE CODE IS IN A PRIVATE REPOSITORY SINCE THIS WAS A FINAL PROJECT FROM A CLASS, MY PROFESSOR ASKED ME TO KEEP IT PRIVATE. I AM MORE THAN HAPPY TO SHARE THE IMPLEMANTATION OF SPARK- PYTHON -ELASTIC SEARCH.
+
 # Flowchart of Live Tweet Stream Application
 
 <img src="https://github.com/JaimeGoB/Twitter_Sentimental_Analysis_By_Location/blob/main/images/flowchart.png" length = 800 width="800"/>
